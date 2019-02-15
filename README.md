@@ -1,1 +1,1 @@
-#Front end repository for Capstone proof checking tool
+Front end repository for Capstone proof checking tool
